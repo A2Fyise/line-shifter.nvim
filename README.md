@@ -28,6 +28,10 @@ return {
       <td>Ctrl + k</td>
       <td>Move Down</td>
     </tr>
+    <tr>
+      <td>Ctrl + x</td>
+      <td>Cut line</td>
+    </tr>
   </tbody>
 </table>
 
