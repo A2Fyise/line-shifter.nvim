@@ -11,7 +11,7 @@
   end
 }
 ```
-### 🔑 $${\color{lightblue}Keybindings}$$:
+### 🔑 Keybindings:
 <table>
   <thead>
     <tr>
